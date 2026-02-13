@@ -47,7 +47,9 @@ This repository contains a structured learning path for Machine Learning. Each d
 ├── 📁 01_Data_Science_Fundamentals  # NumPy, Pandas, Data Cleaning
 ├── 📁 02_Exploratory_Data_Analysis   # Visualization & Web Scraping
 ├── 📁 03_Mathematics_for_ML        # Linear Algebra, Calculus, Stats
-├── 📁 04_Supervised_Learning       # Regression & Classification Models
+├── 📁 04_Linear Regression
+├── 📁 05_Lasso Regression
+├── 📁 04_Linear Regression
 ├── 📁 05_Unsupervised_Learning     # Clustering & PCA
 └── 📁 06_Applied_Projects          # End-to-end ML Systems
 ```
