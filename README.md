@@ -49,7 +49,7 @@ This repository contains a structured learning path for Machine Learning. Each d
 ├── 📁 03_Mathematics_for_ML        # Linear Algebra, Calculus, Stats
 ├── 📁 04_Linear Regression         # Linear Regression,MAE,MSE,r2_Score
 ├── 📁 05_Lasso Regression          # alpha, LassoCV 
-├── 📁 06_Logistic Regression
+├── 📁 06_Logistic Regression       # Accuracy,Precision,Standardization,Recall,F1_Score,Confusion Matrix
 ├── 📁 07_Unsupervised_Learning     # Clustering & PCA
 └── 📁 08_Applied_Projects          # End-to-end ML Systems
 ```
