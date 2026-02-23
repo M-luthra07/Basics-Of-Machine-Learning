@@ -137,6 +137,8 @@ This project demonstrates:
 ---
 
 # 📂 Project Structure
+
+```bash
 .
 ├── 01_Python_Foundations
 ├── 02_Data_Science_Toolkit
@@ -147,9 +149,7 @@ This project demonstrates:
 ├── 07_Generative_AI
 ├── 08_AI_Engineering
 ├── 09_Projects
-└── 10_README.md
-
-
+└── README.md
 ---
 
 # 🛠 Tech Stack
